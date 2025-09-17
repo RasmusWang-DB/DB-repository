@@ -1,3 +1,3 @@
-Vlodomir Zelensky 
-Haps haps
-LM10 to win ballon d'or
+Hello World 
+This is my first repository
+Get in now!
